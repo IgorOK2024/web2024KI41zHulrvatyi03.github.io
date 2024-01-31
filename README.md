@@ -1,1 +1,1 @@
-# Welcome to my websitr!
+# Welcome to my websit!
