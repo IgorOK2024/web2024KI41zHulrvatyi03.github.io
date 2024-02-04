@@ -32,8 +32,11 @@
             margin: 0 1em;
         }
 
-        section {
-            padding: 1em;
+         section {
+    padding: 1em;
+    max-height: calc(100vh - 120px); /* Змініть значення за необхідності */
+    overflow-y: auto; /* Додаємо прокрутку, якщо контент перевищує максимальну висоту */
+
         }
 
         footer {
